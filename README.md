@@ -7,3 +7,9 @@
 
 3. Best browser: Google Chrome.
 4. Support all mobile and tablet sizes.
+
+Used technologies:
+1) JavaScript.
+2) HTML.
+3) CSS.
+4) JQuery.
